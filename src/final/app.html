@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>My Pet Luna</title>
+    <link href="app.css" rel="stylesheet">
+</head>
+
+<body>
+    <h1>My Pet Luna 🐩</h1>
+    <div id="grid">
+        <div id="about" class="section">
+            <h2>
+                About Luna
+                <button onclick="toggleSection('about', event)">Hide</button>
+            </h2>
+            <div>
+                <p>Luna is the best dog ever. She is so sweet and so clever. She can do make tricks, like sitting,
+                    laying
+                    down, and rolling over.</p>
+                <div id="image-div">
+                    <img id="image" class="image-left" width="200"
+                        src="https://cdn05.zipify.com/ncIhijRpIAr4_sSv1Ua5nb1XI6Y=/fit-in/3840x0/7066c6b08ea94801b47f43b44e7560a3/15.jpeg"
+                        alt="Luna the dog" title="Luna the dog" onclick="toggleImage()" />
+
+                </div>
+            </div>
+        </div>
+        <div id="maltese" class="section">
+            <h2>Maltese Dogs
+                <button onclick="toggleSection('maltese', event)">Hide</button>
+            </h2>
+            <div>
+                <p>
+                    <a href="https://en.wikipedia.org/wiki/Maltese_dog" target="_blank">Maltese dogs</a> are the best
+                    dogs. They are small, white, and fluffy. They are very friendly and love to play. They are also very
+                    smart and easy to train. They are great pets for families and individuals.
+                </p>
+            </div>
+        </div>
+        <div id="diet" class="section">
+            <h2>Luna's Diet
+                <button onclick="toggleSection('diet', event)">Hide</button>
+            </h2>
+            <div>
+                <ul>
+                    <li>Breakfast: 1 cup of kibble</li>
+                    <li>Lunch: 1/2 cup of kibble</li>
+                    <li>Dinner: 1 cup of kibble</li>
+                </ul>
+            </div>
+        </div>
+        <div id="schedule" class="section">
+            <h2>Luna's Schedule
+                <button onclick="toggleSection('schedule', event)">Hide</button>
+            </h2>
+            <div>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Time</th>
+                            <th>Activity</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>8:00 AM</td>
+                            <td>Breakfast</td>
+                        </tr>
+                        <tr>
+                            <td>12:00 PM</td>
+                            <td>Lunch</td>
+                        </tr>
+                        <tr>
+                            <td>6:00 PM</td>
+                            <td>Dinner</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="app.js"></script>
+</body>
+
+</html>
