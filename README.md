@@ -1,4 +1,4 @@
-# 📱 How do I Build an App? 💻
+# 📱 App's Building Blocks 💻
 
 **March 8, 2025 | 10:00 AM - 12:30 PM**  
 _Queen Mary University of London_
