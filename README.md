@@ -24,38 +24,26 @@ Ever wondered how your favourite apps are built? We're going learn about the fun
 | 11:15-11:45 | 💋 [CSS 2: Making things look nice (style)](Part2-CSS.md)   | 🌟🌟🌟🌟🌟     |
 | 11:45-12:30 | 🏃 [JavaScript: Making things move (dynamics)](Part3-JS.md) | 🌟🌟🌟🌟🌟🌟   |
 
-## 🎮 Try It Yourself!
-
-### What You'll Need:
+## What You'll Need:
 
 -   📱 Code editor (e.g. VSCode)
 -   💻 Web browser (e.g. Chrome/Firefox)
 
 ## 🌈 What We'll Discover:
 
--   ...
+-   Developing a web application relies on the knowledge of different techniologies (HTML, CSS and JavaScript are just some of them)
+-   Each technology plays a particular role in the building of the app (HTML deals with content and structure, CSS deals with style, etc.)
+-   What a bit of training you could be building some amazing web apps!
 
 ## 🎁 Bonus Quest:
 
-After the workshop, try these at home:
+During the session we will be looking for the best web app to receive a prize at the end!
 
-1. ...
-2. ...
+## 🏠 Take Home:
 
-## ❓ Frequently Asked Questions
+Make a note of the GitHub repo we are using (https://github.com/pauloboliva/web-masterclass/) then try these at home:
 
-### 🤔 ...?
-
-... 💥📸
-
-### 😱 Do I need to know math?
-
-NOPE! We handle the equations - you handle the AWESOME.
-
-### 🎈 Can I keep the code?
-
-YES! (After we pop them for science, of course)
+1. Continue your work at home, and try to do everything again from scratch
+2. Show your family and parents what you've learned!
 
 ---
-
-**Safety Note:** All balloon popping will be supervised by our Safety Squad™. Goggles provided! 👓
