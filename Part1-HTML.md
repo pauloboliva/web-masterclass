@@ -16,7 +16,7 @@ By the end of this exercise, you will:
 
 ## 🏗 **Step 1: Understand the Template (5 mins)**
 
-Download the given <a href="/src/app-template.zip" download>template zip folders</a>. In it you will find three files: `app.html`, `app.css`, and `app.js`. In this section we will work on `app.html`. Open the file on VS Code, and take a look at the contents of the HTML template file. You'll find a document with the following structure:
+Download the given [template zip folders](/src/app-template.zip). In it you will find three files: `app.html`, `app.css`, and `app.js`. In this section we will work on `app.html`. Open the file on VS Code, and take a look at the contents of the HTML template file. You'll find a document with the following structure:
 
 ```html
 <!DOCTYPE html>
