@@ -3,7 +3,7 @@
 **March 8, 2025 | 10:00 AM - 12:30 PM**  
 _Queen Mary University of London_
 
-![](https://raw.githubusercontent.com/pauloboliva/web-masterclass/refs/heads/main/src/imgs/apps.gif)
+![](/src/imgs/example.png)
 
 ## 👂 What's This All About?
 
