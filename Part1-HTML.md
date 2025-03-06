@@ -14,7 +14,7 @@ By the end of this exercise, you will:
 
 ---
 
-## 🏗 **Step 1: Understand the Template**
+## 🏗 **Step 1: Understand the Template (5 mins)**
 
 Open the given **HTML template** and take a look at the structure. You'll find a document with the following content:
 
@@ -46,7 +46,7 @@ That's your starter template. We'll be mainly working on the `<body>` of the doc
 
 Load the page on the web browser and make sure the title appers on the top of the browsers navigation bar.
 
-## 📃 **Step 2: Add Your Content**
+## 📃 **Step 2: Add Your Content (15 mins)**
 
 What's your app about? Mine is about my pet Luna. Choose a topic, and then include details about your on the four different sections of the page:
 
@@ -59,7 +59,7 @@ What's your app about? Mine is about my pet Luna. Choose a topic, and then inclu
 
 The title of each section should go inside the `<h2>` tag (_heading size 2_), while the content goes into the `<div>` tag (which stands for _division_).
 
-## 🎆 Step 3: Adding Images and Links\*\*
+## 🎆 **Step 3: Adding Images and Links (10 mins)**
 
 A app would not be complete with a few images and hyperlinks. You can add an image by finding its URL and then including the `<img>` tag in one of your sections. For instance, in my case I did:
 
