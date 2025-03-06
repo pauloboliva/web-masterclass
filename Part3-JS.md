@@ -1,4 +1,4 @@
-# 🔥 Styling the Page (Cascading Style Sheets)
+# 🔥 Making Things Move! (JavaScript)
 
 In this final part, you will add some _dynamics_ to our application, by making things move 🕺.
 
