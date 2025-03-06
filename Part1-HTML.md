@@ -65,14 +65,14 @@ A app would not be complete with a few images and hyperlinks. You can add an ima
 
 ```
 <img
-    id="image"
-    class="image-left"
     width="200"
     src="https://cdn05.zipify.com/ncIhijRpIAr4_sSv1Ua5nb1XI6Y=/fit-in/3840x0/7066c6b08ea94801b47f43b44e7560a3/15.jpeg"
     alt="Luna the dog"
     title="Luna the dog"
 />
 ```
+
+Adjust the `width` of the image if necessary.
 
 The `title` is what appears on the user hovers the mouse over the image, while `alt` is the _alternative text_ (alt text) that is used for accessibility, e.g. visually impared users an listen to the description of the image.
 
