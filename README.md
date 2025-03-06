@@ -15,14 +15,14 @@ Ever wondered how your favourite apps are built? We're going learn about the fun
 
 ## 🕒 Coding Schedule
 
-| Time        | Activity                                                      | Coolness Level |
-| ----------- | ------------------------------------------------------------- | -------------- |
-| 10:00-10:15 | 🔥 Kickoff: Web Basics                                        | 🌟🌟🌟         |
-| 10:15-10:45 | 💻 [HTML: Adding content (and structure)](Part1-HTML.md)      | 🌟🌟🌟🌟       |
-| 10:45-11:00 | 💋 [CSS 1: Making things look nice (style)](Part2-HTML.md)    | 🌟🌟🌟🌟🌟     |
-| 11:00-11:15 | 🍎 Break / Snacks                                             |                |
-| 11:15-11:45 | 💋 [CSS 2: Making things look nice (style)](Part2-HTML.md)    | 🌟🌟🌟🌟🌟     |
-| 11:45-12:30 | 🏃 [JavaScript: Making things move (dynamics)](Part3-HTML.md) | 🌟🌟🌟🌟🌟🌟   |
+| Time        | Activity                                                    | Coolness Level |
+| ----------- | ----------------------------------------------------------- | -------------- |
+| 10:00-10:15 | 🔥 Kickoff: Web Basics                                      | 🌟🌟🌟         |
+| 10:15-10:45 | 💻 [HTML: Adding content (and structure)](Part1-HTML.md)    | 🌟🌟🌟🌟       |
+| 10:45-11:00 | 💋 [CSS 1: Making things look nice (style)](Part2-CSS.md)   | 🌟🌟🌟🌟🌟     |
+| 11:00-11:15 | 🍎 Break / Snacks                                           |                |
+| 11:15-11:45 | 💋 [CSS 2: Making things look nice (style)](Part2-CSS.md)   | 🌟🌟🌟🌟🌟     |
+| 11:45-12:30 | 🏃 [JavaScript: Making things move (dynamics)](Part3-JS.md) | 🌟🌟🌟🌟🌟🌟   |
 
 ## 🎮 Try It Yourself!
 
