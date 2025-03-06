@@ -1,7 +1,7 @@
-# 📱 App's Building Blocks 💻
+# 📱 How to Build an App! 💻
 
 **March 8, 2025 | 10:00 AM - 12:30 PM**  
-_Queen Mary University of London_
+_Dr Paulo Oliva - Queen Mary University of London_
 
 ![](/src/imgs/example.png)
 
