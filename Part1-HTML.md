@@ -9,7 +9,7 @@ Welcome to your first step in **web development**! 🚀 In this session, you wil
 By the end of this exercise, you will:
 
 ✅ Understand the basic structure of an HTML document  
-✅ Add new content to personalize your page
+✅ Add new content to personalize your page  
 ✅ Modify headings, paragraphs, and sections
 
 ---
