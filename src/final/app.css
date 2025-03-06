@@ -40,8 +40,8 @@ button {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-areas:
-        "about maltese"
-        "diet schedule";
+        "section-1 section-2"
+        "section-3 section-4";
     grid-gap: 10px;
 }
 
