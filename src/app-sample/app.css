@@ -4,6 +4,21 @@ body {
     padding: 20px;
 }
 
+#grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas:
+        "section-1 section-2"
+        "section-3 section-4";
+    grid-gap: 10px;
+}
+
+.section {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
 h1 {
     color: red;
     margin: 0 0 20px 0;
@@ -17,8 +32,16 @@ h2 {
     margin: 0;
 }
 
-.hidden {
-    background-color: rgba(255, 255, 255, 0.5) !important;
+table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+td,
+th {
+    padding: 10px;
+    border-bottom: 1px solid black;
 }
 
 button {
@@ -30,19 +53,8 @@ button {
     cursor: pointer;
 }
 
-.section {
-    background-color: white;
-    padding: 20px;
-    border-radius: 10px;
-}
-
-#grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-areas:
-        "section-1 section-2"
-        "section-3 section-4";
-    grid-gap: 10px;
+.hidden {
+    background-color: rgba(255, 255, 255, 0.5) !important;
 }
 
 #image-div {
@@ -64,16 +76,4 @@ button {
 
 .image-right {
     left: 200px;
-}
-
-table {
-    width: 100%;
-    border-collapse: collapse;
-    text-align: left;
-}
-
-td,
-th {
-    padding: 10px;
-    border-bottom: 1px solid black;
 }

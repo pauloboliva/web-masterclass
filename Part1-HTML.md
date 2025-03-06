@@ -16,7 +16,7 @@ By the end of this exercise, you will:
 
 ## 🏗 **Step 1: Understand the Template (5 mins)**
 
-Open the given **HTML template** and take a look at the structure. You'll find a document with the following content:
+Download the given [template zip folders](/src/app-template.zip). In it you will find three files: `app.html`, `app.css`, and `app.js`. In this section we will work on `app.html`. Open the file on VS Code, and take a look at the contents of the HTML template file. You'll find a document with the following structure:
 
 ```html
 <!DOCTYPE html>
@@ -30,17 +30,17 @@ Open the given **HTML template** and take a look at the structure. You'll find a
 </html>
 ```
 
-That's your starter template. We'll be mainly working on the `<body>` of the document, but let's start giving our page a TITLE. In the `<head>` section, include a title as follows:
+That's your starter template. Each of `<html>`, `<head>`, and `<body>` are called **tags**. These tags are used to struture the document.
+
+We'll be mainly working inside the `<body>` tag of the document, but let's start giving our page a `<title>`. In the `<head>` section, include a title as follows:
 
 ```html
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Choose your Title</title>
+        <title>..Choose your Title..</title>
     </head>
-    <body>
-        ...
-    </body>
+    ...
 </html>
 ```
 
@@ -50,11 +50,11 @@ Load the page on the web browser and make sure the title appers on the top of th
 
 What's your app about? Mine is about my pet Luna. Choose a topic, and then include details about your on the four different sections of the page:
 
-```
-    <div id="section-1" class="section">
-        <h2>Section 1</h2>
-        <div>Paragraph 1</div>
-    </div>
+```html
+<div id="section-1" class="section">
+    <h2>Section 1</h2>
+    <div>Paragraph 1</div>
+</div>
 ```
 
 The title of each section should go inside the `<h2>` tag (_heading size 2_), while the content goes into the `<div>` tag (which stands for _division_).
@@ -63,7 +63,7 @@ The title of each section should go inside the `<h2>` tag (_heading size 2_), wh
 
 A app would not be complete with a few images and hyperlinks. You can add an image by finding its URL and then including the `<img>` tag in one of your sections. For instance, in my case I did:
 
-```
+```html
 <img
     width="200"
     src="https://cdn05.zipify.com/ncIhijRpIAr4_sSv1Ua5nb1XI6Y=/fit-in/3840x0/7066c6b08ea94801b47f43b44e7560a3/15.jpeg"
@@ -78,13 +78,38 @@ The `title` is what appears on the user hovers the mouse over the image, while `
 
 Use the `<a>` tag to add a link (also called a _hyperlink_). For instance, in my case I did:
 
+```html
+<a href="https://en.wikipedia.org/wiki/Maltese_dog" target="_blank">
+    Maltese dogs
+</a>
+are the best...
 ```
-    <a
-        href="https://en.wikipedia.org/wiki/Maltese_dog"
-        target="_blank"
-    >
-        Maltese dogs
-    </a> are the best...
+
+Use `<table>` to add a table in one of the sections. Note that `<tr>` stands for _table row_, `<th>` for _table heading_, and `<td>` for _table data_:
+
+```html
+<table>
+    <thead>
+        <tr>
+            <th>Time</th>
+            <th>Activity</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>8:00 AM</td>
+            <td>Breakfast</td>
+        </tr>
+        <tr>
+            <td>12:00 PM</td>
+            <td>Lunch</td>
+        </tr>
+        <tr>
+            <td>6:00 PM</td>
+            <td>Dinner</td>
+        </tr>
+    </tbody>
+</table>
 ```
 
 Make sure that after each step you reload the page on the web browser to test your application.

@@ -1,6 +1,6 @@
 # 🔥 Styling the Page (Cascading Style Sheets)
 
-In this second part of the session, you will add _style_ to our app by using CSS (Cascading Style Sheets).
+In this second part of the session, you will add _style_ to your app by using CSS (Cascading Style Sheets).
 
 ---
 
@@ -16,7 +16,7 @@ By the end of this session, you will:
 
 ## 📱 **Step 1: Organise sections into a grid (15 mins)**
 
-Notice that our sections have `id`'s (e.g. `id='section-1'`), and our main `<div>` also has an `id`
+Notice that our sections have `id`'s (e.g. `id='section-1'`), and our main `<div>` also has an `id`:
 
 ```html
 <div id="grid">
@@ -64,6 +64,11 @@ body {
 to some of the headings
 
 ```css
+h1 {
+    color: red;
+    margin: 0 0 20px 0;
+}
+
 h2 {
     color: blue;
     display: flex;
