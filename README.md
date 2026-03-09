@@ -1,6 +1,6 @@
 # 📱 How to Build an App! 💻
 
-**March 8, 2025 | 10:00 AM - 12:30 PM**  
+**March 14, 2025 | 10:00 AM - 12:30 PM**  
 _Dr Paulo Oliva - Queen Mary University of London_
 
 ![](/src/imgs/example.png)
@@ -9,9 +9,9 @@ _Dr Paulo Oliva - Queen Mary University of London_
 
 Ever wondered how your favourite apps are built? We're going learn about the fundamental buildings blocks of every web application:
 
--   𝍌 **HTML**: The language used to structure the page's content
--   👯‍♂️ **CSS**: The language that gives the content 'style' (color, size, font)
--   🏃🏻‍♀️ **JavaScript**: The language that makes the page 'dynamics' (moving, appear, disappear)
+- 𝍌 **HTML**: The language used to structure the page's content
+- 👯‍♂️ **CSS**: The language that gives the content 'style' (color, size, font)
+- 🏃🏻‍♀️ **JavaScript**: The language that makes the page 'dynamics' (moving, appear, disappear)
 
 ## 🕒 Coding Schedule
 
@@ -26,14 +26,14 @@ Ever wondered how your favourite apps are built? We're going learn about the fun
 
 ## What You'll Need:
 
--   📱 Code editor (e.g. VSCode)
--   💻 Web browser (e.g. Chrome/Firefox)
+- 📱 Code editor (e.g. VSCode)
+- 💻 Web browser (e.g. Chrome/Firefox)
 
 ## 🌈 What We'll Discover:
 
--   Developing a web application relies on the knowledge of different techniologies (HTML, CSS and JavaScript are just some of them)
--   Each technology plays a particular role in the building of the app (HTML deals with content and structure, CSS deals with style, etc.)
--   What a bit of training you could be building some amazing web apps!
+- Developing a web application relies on the knowledge of different techniologies (HTML, CSS and JavaScript are just some of them)
+- Each technology plays a particular role in the building of the app (HTML deals with content and structure, CSS deals with style, etc.)
+- What a bit of training you could be building some amazing web apps!
 
 ## 🎁 Bonus Quest:
 

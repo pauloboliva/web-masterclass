@@ -3,3 +3,24 @@ body {
     background-color: rgb(255, 255, 255);
     padding: 20px;
 }
+
+h2 {
+    color: red;
+}
+
+.section {
+    background-color: lightgrey;
+}
+
+#section-1 {
+    border: 1px solid black;
+}
+
+#grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas:
+        "section-1 section-2"
+        "section-3 section-4";
+    grid-gap: 10px;
+}
